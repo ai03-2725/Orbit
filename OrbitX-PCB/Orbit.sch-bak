@@ -1101,7 +1101,7 @@ Text Notes 5675 12925 0    50   ~ 0
 Indicator LEDs\n
 Text GLabel 4100 10725 2    50   Input ~ 0
 COL0-R
-Text GLabel 4100 9525 2    50   Input ~ 0
+Text GLabel 4100 9925 2    50   Input ~ 0
 COL1-R
 Text GLabel 4100 9025 2    50   Input ~ 0
 COL2-R
@@ -1115,7 +1115,7 @@ Wire Wire Line
 	3500 8625 3600 8625
 Wire Wire Line
 	4500 11025 4100 11025
-Text GLabel 4100 9425 2    50   Input ~ 0
+Text GLabel 4100 9825 2    50   Input ~ 0
 ROW0-R
 Text GLabel 4100 10825 2    50   Input ~ 0
 ROW1-R

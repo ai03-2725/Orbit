@@ -1,5 +1,5 @@
 Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
-1,"Unpolarized capacitor, small symbol",C_Small,C4 C5 C6 C11 C12 C13 C15 C16,0.1uF,C_0603_1608Metric,8,~
+1,"Unpolarized capacitor, small symbol",C_Small,C4 C5 C6 C11 C12 C13,0.1uF,C_0603_1608Metric,6,~
 2,"Unpolarized capacitor, small symbol",C_Small,C7 C14,10uF,C_0603_1608Metric,2,~
 3,"Unpolarized capacitor, small symbol",C_Small,C3 C10,1uF,C_0603_1608Metric,2,~
 4,"Unpolarized capacitor, small symbol",C_Small,C1 C2 C8 C9,22pF,C_0603_1608Metric,4,~
@@ -12,7 +12,7 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 11,"Resistor, small symbol",R_Small,R9 R10,4.7k,R_0603_1608Metric,2,~
 12,"Resistor, small symbol",R_Small,R43 R44 R85 R86,5.1k,R_0603_1608Metric,4,~
 13,"Push button switch, generic, two pins",SW_Push,SW1 SW2,SW_Push,SKQGADE010,2,
-14,"16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, TQFP-44",ATmega32U4-AU,U1 U3,ATmega32U4-AU,TQFP-44_10x10mm_P0.8mm,2,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
+14,"16MHz, 16kB Flash, 1.25kB SRAM, 512B EEPROM, USB 2.0, QFN-44",ATmega32U4-MU,U1 U3,ATmega32U4-MU,QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm,2,http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf
 15,,PRTR5V0U2X,U2 U4,PRTR5V0U2X,SOT143B,2,
 16,,HRO-TYPE-C-31-M-12,USB1 USB2,HRO-TYPE-C-31-M-12,HRO-TYPE-C-31-M-12-Assembly,2,
 17,"Four pin crystal, GND on pins 2 and 4, small symbol",Crystal_GND24_Small,Y1 Y2,16MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,2,~
@@ -22,12 +22,12 @@ Component,Description,Part,References,Value,Footprint,Quantity Per PCB,Datasheet
 
 
 Component Groups:,17
-Component Count:,94
-Fitted Components:,94
+Component Count:,92
+Fitted Components:,92
 Number of PCBs:,1
-Total components:,94
+Total components:,92
 Schematic Version:,
 Schematic Date:,
-BoM Date:,10/17/2019 12:04:53 AM
-Schematic Source:,C:\Users\Ryota Goto\Documents\GitHub\Orbit\OrbitX-PCB\Orbit.sch
-KiCad Version:,Eeschema (5.1.4)-1
+BoM Date:,6/25/2019 7:16:13 PM
+Schematic Source:,C:\Users\Ryota\Documents\GitHub\Orbit\OrbitX-PCB\Orbit.sch
+KiCad Version:,Eeschema (5.1.2)-1
